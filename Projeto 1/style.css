@@ -1,0 +1,130 @@
+* {
+	font-family: Arial;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.topo{
+	height: 50px;
+	background-color: #353535;
+}
+
+.topoint{
+	width: 1000px;
+	margin: auto;
+	color: #FFFFFF;
+}
+
+.logomarca{
+	margin-top: 5px;
+	float: left;
+}
+
+.logomarca img{
+	width: 100px;
+	height: 40px;
+}
+
+.menu{
+	float: right;
+	line-height: 50px;
+}
+
+.menu ul,
+.menu li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.menu li{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.menu li:hover{
+	background-color: #3480C1;
+}
+
+.banner{
+	height: 300px;
+	background-color: #347aba;
+}
+
+.bannerint{
+	width: 1000px;
+	margin: auto;
+}
+
+.banneresquerda{
+	float: left;
+}
+
+.bannerdireita{
+	float: right;
+}
+
+.bannerdireita img{
+	margin-right: 55px;
+}
+
+.frase1{
+	font-size: 48px;
+	color:#FFFFFF;
+	margin-top: 60px;
+}
+
+.frase2{
+	font-size: 20px;
+	color: #FFFFFF;	
+}
+
+.botao{
+	background-color: #FFC001;
+	width: 282px;
+	height: 56px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 56px;
+	margin-top: 20px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.conteudoint{
+	width: 1000px;
+	margin: auto;
+}
+
+.outrosprodutos{
+	height: 90px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 90px;
+
+}
+
+.fotos img{
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	cursor: pointer;
+	width: 400px; 
+	height: 200px;
+	border-radius: 5px;
+}
+
+.rodape{
+	background-color: #347ABA;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	color: #FFFFFF;
+}
